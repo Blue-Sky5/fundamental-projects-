@@ -1,2 +1,2 @@
 # fundamental-projects-
-first codes i started with
+the codes and projects from first semester @ uni
