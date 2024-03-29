@@ -1,2 +1,2 @@
 # fundamental-projects-
-the codes and projects from first semester @ uni
+codes from challanges and projects of programming classes ( fundamental and advanced ) @ uni
